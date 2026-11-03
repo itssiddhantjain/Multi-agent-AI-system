@@ -28,13 +28,18 @@ The system uses 4 AI agents that work together to plan a complete trip automatic
   <li>✈️ AviationStack API</li>
 </ul>
 
+<h2>📋 Requirements</h2>
 
-# Requirements
-APIs
-Groq API: https://console.groq.com
-Tavily API: https://www.tavily.com/
-AviationStack API: https://aviationstack.com/
-OpenWeatherMap API: https://openweathermap.org/
-Tools
-PostgreSQL: https://www.postgresql.org/download/
-Tavily MCP Server: https://docs.tavily.com/documentation/mcp
+<h3>🔑 APIs</h3>
+<ul>
+  <li>⚡ <a href="https://console.groq.com" target="_blank">Groq API</a></li>
+  <li>🔍 <a href="https://www.tavily.com/" target="_blank">Tavily API</a></li>
+  <li>✈️ <a href="https://aviationstack.com/" target="_blank">AviationStack API</a></li>
+  <li>🌤️ <a href="https://openweathermap.org/" target="_blank">OpenWeatherMap API</a></li>
+</ul>
+
+<h3>🛠️ Tools</h3>
+<ul>
+  <li>🐘 <a href="https://www.postgresql.org/download/" target="_blank">PostgreSQL</a></li>
+  <li>🔌 <a href="https://docs.tavily.com/documentation/mcp" target="_blank">Tavily MCP Server</a></li>
+</ul>
