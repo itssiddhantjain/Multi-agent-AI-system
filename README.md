@@ -6,20 +6,35 @@ This project is a Real-World Multi-Agent AI System built using LangGraph.
 The system uses 4 AI agents that work together to plan a complete trip automatically.
 
 ## Features
-✈️ Flight Search Agent
-🏨 Hotel Search Agent
-🗓️ Itinerary Planning Agent
-🤖 Final Response Agent
-🧠 Memory using PostgreSQL
-🌐 Real-time API Integration
-💻 Streamlit Web Interface
+<ul>
+  <li>✈️ Flight Search Agent</li>
+  <li>🏨 Hotel Search Agent</li>
+  <li>🗓️ Itinerary Planning Agent</li>
+  <li>🤖 Final Response Agent</li>
+  <li>🧠 Memory using PostgreSQL</li>
+  <li>🌐 Real-time API Integration</li>
+  <li>💻 Streamlit Web Interface</li>
+</ul>
 
 ## Tech Stack
-LangGraph
-LangChain
-Groq
-Llama 3.3 70B
-PostgreSQL
-Streamlit
-Tavily API
-AviationStack API
+<ul>
+  <li>🔗 LangGraph</li>
+  <li>🦜 LangChain</li>
+  <li>⚡ Groq</li>
+  <li>🧠 Llama 3.3 70B</li>
+  <li>🐘 PostgreSQL</li>
+  <li>💻 Streamlit</li>
+  <li>🌐 Tavily API</li>
+  <li>✈️ AviationStack API</li>
+</ul>
+
+
+# Requirements
+APIs
+Groq API: https://console.groq.com
+Tavily API: https://www.tavily.com/
+AviationStack API: https://aviationstack.com/
+OpenWeatherMap API: https://openweathermap.org/
+Tools
+PostgreSQL: https://www.postgresql.org/download/
+Tavily MCP Server: https://docs.tavily.com/documentation/mcp
